@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # University Lost and Found Management System
 
 ## Overview
@@ -42,5 +43,3 @@ The system provides a centralized platform for:
 - The backend is implemented using **Spring Boot**.
 - The frontend is implemented using **React**.
 - Documentation follows IEEE SRS standards.
-
----
